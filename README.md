@@ -16,3 +16,10 @@
 | `--color-day-primary-night-grey` | ![#0078d7](https://placehold.co/15x15/0078d7/0078d7.png) `var(--PrimaryColor)` | ![#FFFFFF](https://placehold.co/15x15/403E41/403E41.png) `#403E41` |
 | `--color-day-primary-night-white` | ![#0078d7](https://placehold.co/15x15/0078d7/0078d7.png) `var(--PrimaryColor)` | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF` |
 | `--color-foreground-default` | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` |
+| `--color-foreground-default` | ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff` | ![#2B2B2B](https://placehold.co/15x15/2B2B2B/2B2B2B.png) `#2B2B2B` |
+| `--color-grey-light` | ![#0078d7](https://placehold.co/15x15/EEEEEE/EEEEEE.png) `#EEEEEE` | ![#444444](https://placehold.co/15x15/444444/444444.png) `#444444` |
+| `--color-grey-light-alpha` | ![#EEEEEED1](https://placehold.co/15x15/EEEEEE/EEEEEE.png) `#EEEEEED1` | ![#44444477](https://placehold.co/15x15/444444/444444.png) `#44444477` |
+| `--color-link-bg-active` | ![#D8D8D8](https://placehold.co/15x15/D8D8D8/D8D8D8.png) `#D8D8D8` | ![#262626](https://placehold.co/15x15/262626/262626.png) `#262626` |
+| `--color-link-bg-hover` | ![#E8E8E8](https://placehold.co/15x15/E8E8E8/E8E8E8.png) `#E8E8E8` | ![#2D2D2D](https://placehold.co/15x15/2D2D2D/2D2D2D.png) `#2D2D2D` |
+| `--color-navbar-bg-default` | ![#F3F3F3](https://placehold.co/15x15/F3F3F3/F3F3F3.png) `#F3F3F3` | ![#202020](https://placehold.co/15x15/202020/202020.png) `#202020` |
+| `--color-text-default` | ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000` | ![#0078d7](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF` |
