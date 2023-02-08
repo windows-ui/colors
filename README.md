@@ -4,7 +4,7 @@
 
 | Color Name | Light | Dark |
 |---|---|---|
-| `--PrimaryColor` | ![#0078d7](https://placehold.co/15x15/0078d7/0078d7.png) `#0078d7` | ![#0078d7](https://placehold.co/15x15/0078d7/0078d7.png) `#0078D7` |
+| `--PrimaryColor` | ![#0078d7](https://placehold.co/15x15/0078d7/0078d7.png) `#0078D7` | ![#0078d7](https://placehold.co/15x15/0078d7/0078d7.png) `#0078D7` |
 | `--PrimaryColorLight` | ![#47aeff](https://placehold.co/15x15/47aeff/47aeff.png) `#F03C15` | ![#47aeff](https://placehold.co/15x15/47aeff/47aeff.png) `#F03C15` |
 | `--color-primary-adaptive` | ![#0078d7](https://placehold.co/15x15/0078d7/0078d7.png) `var(--PrimaryColor)` | ![#47aeff](https://placehold.co/15x15/47aeff/47aeff.png)  `var(--PrimaryColorLight)` |
 | `--color-scheme-absolute` | ![#ffffff](https://placehold.co/15x15/eeeeee/eeeeee.png) `#FFFFFF` | ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000` |
